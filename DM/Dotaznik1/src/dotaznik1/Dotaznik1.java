@@ -22,7 +22,23 @@ public class Dotaznik1 {
         byte [] aPole = new byte [1000];
         
         //Naplneni - pohlavi,prijem,stav, mesiac narodenia DAVID
-        //vypis -MIRKA
+        //vypis -MIRKA    
     }
     
+    public static void identifikace () {
+    
+    
+    } 
+    
+    
+    public static void vypis (byte[] aPole) { 
+        
+
+    System.out.println("pohlavi: ");
+    System.out.println("prijem: ");
+    System.out.println("mesic narozeni: ");
+    System.out.println("stav: ");
+
+
+}
 }
