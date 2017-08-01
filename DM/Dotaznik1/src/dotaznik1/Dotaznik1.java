@@ -15,7 +15,14 @@ public class Dotaznik1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        
+        //Vytvoreni promennych a pole 1000 osob MIRKA (pole bytu, po 8 bitu)
+        
+        byte [] aPole = new byte [1000];
+        
+        //Naplneni - pohlavi,prijem,stav, mesiac narodenia DAVID
+        //vypis -MIRKA
     }
     
 }
