@@ -14,6 +14,28 @@ public class Dotaznik1 {
     /**
      * @param args the command line arguments
      */
+    
+    //funkce na zadávání údajů o osobách
+    public static byte [] zadejUdaje (byte [] aPole) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Nový záznam:");
+        
+        System.out.println("Pohlaví (M/Ž)?");
+        pom = sc.NextLine();
+        
+        
+        while (true) {
+        
+            
+            System.out.println("Přeješ si pokračovat v zadávání (A/N)?");
+            
+            if
+        }
+        
+        
+        return aPole;
+    }
+        
     public static void main(String[] args) {
        
         
